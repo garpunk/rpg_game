@@ -95,3 +95,4 @@ def test_boss_death(setup_game_objects):
 
     #need to take the classes data, make a dummy class with that data in the test file,
     #then retrieve the function inside of the class (object) and test it
+    #done
